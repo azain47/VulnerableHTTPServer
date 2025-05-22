@@ -16,7 +16,7 @@ Welcome to **VulnerableHTTPServer**, the web server you never knew you needed (a
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/VulnerableHTTPServer.git
+   git clone https://github.com/azain47/VulnerableHTTPServer.git
    cd VulnerableHTTPServer
 2. Compile the server:
     ```bash
